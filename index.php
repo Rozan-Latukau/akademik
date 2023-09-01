@@ -76,7 +76,7 @@ if (isset($_POST['simpan'])) { //untuk create
 
 <body>
     <div class="container">
-        <div class="raw">
+        <div class="row">
             <img src="Logo2.png">
         </div>
         <ul>

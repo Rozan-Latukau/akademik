@@ -17,7 +17,7 @@
 
 <body>
     <div class=" container">
-        <div cLass="raw">
+        <div cLass="row">
             <img src=" Logo2.png">
         </div>
         <ul>
