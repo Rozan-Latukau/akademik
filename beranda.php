@@ -34,7 +34,7 @@
             <div class="nav">
                 <i cLass="fa-s01id fa-bars"></i>
                 <div class="search">
-                    <input type="text">&nbsp;&nbsp;
+                    <input type="text" placehoLder="Search">&nbsp;&nbsp;
                     <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
                 </div>
                 <div class="user">
