@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA_Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device -width, intial -scale=1 . 0" />
+    <meta name="viewport" content="width=device -width, intial -scale=1.0" />
     <title>Akademik</title>
     <!-- <!-styLing -> -->
     <link rel="stylesheet" href="style.css" />
@@ -12,7 +12,7 @@
         integrity="sha512-KfkfwYDSLkIlwQp6LFnl8ZNdLGxu9YAA1QVWINks4PhcEl0SvqcyVLLD9aMhXd13u0joXtEKNoSOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.e.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-BmbxuPwQa2lc/FVZBCNJ7UAyJxM6wuqIj61tLrc4MSXOsZH/EV+nYRRuWlolflfl" crossorigin=" anonymous ">
+        integrity="sha384-BmbxuPwQa2lc/FVZBCNJ7UAyJxM6wuqIj61tLrc4MSXOsZH/EV+nYRRuWlolflfl" crossorigin="anonymous">
 </head>
 
 <body>
@@ -21,11 +21,11 @@
             <img src="Logo2.png">
             <ul>
                 <li class="pilih"><i class="fa-solid fa-gauge"></i>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
-                <li><a href="tugas.php" white; text-decoration:none; ctass="fa-solid fa-graduation-cap"></i>&nbsp;
+                <li><a href="tugas.php" style="white; text-decoration:none;"><i
+                            class="fa-solid fa-graduation-cap"></i>&nbsp;
                         <span>Data mahasiswa</span></a></li>
                 <li><i cLass="fa-s01id fa-languange"></i>&nbsp;<span>Bahasa</span></li>
-                <li><i class="fa-regular fa-circ1e-question"></i>&nbsp;&nbsp;<span>Bantuan</span>
-                </li>
+                <li><i class="fa-regular fa-circ1e-question"></i>&nbsp;&nbsp;<span>Bantuan</span></li>
             </ul>
         </div>
         <div class="section">
