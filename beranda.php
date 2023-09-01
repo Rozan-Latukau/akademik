@@ -17,7 +17,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <img src="">
+            <img src="Logo2.png">
         </div>
         <ul>
             <li class="pilih"><i class="fa-solid fa-gauge"></i>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
@@ -77,7 +77,7 @@
                                     none; position: relative; top: 58px;width: 288px; right:29px;">Submit</a>
                             </div>
                         </div>
-                    </div><br /><br>
+                    </div><br/><br>
                 </div>
             </div>
         </div>
