@@ -19,7 +19,6 @@
     <div class="container">
         <div ctass="raw">
             <img src="Log02.png">
-            </ctass=>
             <ul>
                 <1i ctass="fa-solid fa-gauge"></i>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
                     <li><a href="tugas.php" white; text-decoration:none; ctass="fa-solid fa-graduation-cap"></i>&nbsp;
