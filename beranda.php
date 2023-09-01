@@ -20,7 +20,7 @@
         <div ctass="raw">
             <img src="Logo2.png">
             <ul>
-                <li ctass="fa-solid fa-gauge"></li>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
+                <li class="pilih"><i class="fa-solid fa-gauge"></i>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
                 <li><a href="tugas.php" white; text-decoration:none; ctass="fa-solid fa-graduation-cap"></i>&nbsp;
                         <span>Data mahasiswa</span></a></li>
                 <li><i cLass="fa-s01id fa-languange"></i>&nbsp;<span>Bahasa</span></li>
