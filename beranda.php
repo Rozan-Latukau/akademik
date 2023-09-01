@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA_Compatible" content="IE=edge"/>
@@ -18,7 +17,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <img src="Logo2.png">
+            <img src="">
         </div>
         <ul>
             <li class="pilih"><i class="fa-solid fa-gauge"></i>&nbsp;&nbsp;<span>Ha1aman Utama</span></li>
@@ -32,7 +31,7 @@
     <div class="section">
         <div ctass="header">
             <div class="nav">
-                <i cLass="fa-s01id fa-bars"></i>
+                <i cLass="fa-so1id fa-bars"></i>
                 <div class="search">
                     <input type="text" placehoLder="Search">&nbsp;&nbsp;
                     <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
