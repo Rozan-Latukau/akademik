@@ -7,19 +7,19 @@
 }
 
 body {
-    min-height: 10evh;
+    min-height: 10vh;
 }
 
 .container {
     position: fixed;
     background: D#e695e7;
-    width: 20vw;
+    width: 20vh;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-.raw {
+.row {
     height: 10vh;
     padding-left: 15px;
     align-items: center;
@@ -30,15 +30,15 @@ body {
     cursor: pointer;
 }
 
-.raw img {
+.row img {
     width: 200px;
 }
 
 .container ul li {
     font-size: 22px;
     padding: 18px 0;
-    color: Iwhite;
-    display: iflex;
+    color: white;
+    display: flex;
     align-items: center;
     cursor: pointer;
 }
@@ -54,8 +54,8 @@ body {
 .section {
     position: absolute;
     right: e;
-    width: 8evw;
-    height: 10evh;
+    width: 8vh;
+    height: 10vh;
 }
 
 .header {
@@ -68,7 +68,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 2px 4px Drgba(0, 0, 0, 0.1);
+    box-shadow: 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 1;
 }
 
@@ -87,7 +87,7 @@ body {
 
 .search {
     flex: 5;
-    display: iflex;
+    display: flex;
     justify-content: center;
 }
 
@@ -120,20 +120,20 @@ body {
 
 .user i {
     font-size: 25px;
-    padding: Spx;
+    padding: 5px;
     color: O#191919;
-    margin: Spx 5px;
+    margin: 5px 5px;
 }
 
 .isi {
     position: relative;
     margin-top: 10vh;
-    min-height: 9evh;
+    min-height: 9vh;
     background: #edeaea;
 }
 
 .main h2 {
-    padding: 3epx 3epx;
+    padding: 3px 3px;
 }
 
 mx-auto {
@@ -141,7 +141,7 @@ mx-auto {
 }
 
 .card {
-    margin-top: 1epx;
+    margin-top: 1px;
 }
 
 @media screen and (max-width: 1050px) {
