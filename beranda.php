@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA_Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device -width, intial -scale=1.0" />
+    <meta name="viewport" content="width=device-width, intial-scale=1.0" />
     <title>Akademik</title>
-    <!-- <!-styLing -> -->
+    <!-- styLing -->
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
         integrity="sha512-KfkfwYDSLkIlwQp6LFnl8ZNdLGxu9YAA1QVWINks4PhcEl0SvqcyVLLD9aMhXd13u0joXtEKNoSOWaZqXgel0g=="
