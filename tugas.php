@@ -4,22 +4,21 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA_Compatible" content="IE=edge" />
-    <meta name-" viewport" content="width=device -width, intial -scale=1 . 0" />
-    <title>travelzan</title>
-    <!-styLing ->
-        <link rel="stylesheet" href="style.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-            integrity="sha512-KfkfwYDSLkIlwQp6LFnl8ZNdLGxu9YAA1QVWINks4PhcEl0SvqcyVLLD9aMhXd13u0joXtEKNoSOWaZqXgel0g=="
-            crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.e.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
-            integrity="sha384-BmbxuPwQa2lc/FVZBCNJ7UAyJxM6wuqIj61tLrc4MSXOsZH/EV+nYRRuWlolflfl"
-            crossorigin=" anonymous ">
+    <meta name="viewport" content="width=device -width, intial -scale=1 . 0" />
+    <title>Akademik</title>
+    <!-- <!-styLing -> -->
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDSLkIlwQp6LFnl8ZNdLGxu9YAA1QVWINks4PhcEl0SvqcyVLLD9aMhXd13u0joXtEKNoSOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.e.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVZBCNJ7UAyJxM6wuqIj61tLrc4MSXOsZH/EV+nYRRuWlolflfl" crossorigin=" anonymous ">
 </head>
 
 <body>
     <div class=" container">
         <div cLass="raw">
-            <img src=" Logo2 . png">
+            <img src=" Logo2.png">
         </div>
         <ul>
             <li class="pilih"><a href="beranda.php" style="color: yellow; text-decoration : none;"><i

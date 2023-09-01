@@ -62,8 +62,9 @@ if (isset($_POST['simpan'])) { //untuk create
 
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA=Compatib1e" content="IE=edge" <meta name="viewport"
-        content="width=device-width, intial-scale=l .Ø" < title>travelzan</title>
+    <meta http-equiv="X-UA=Compatib1e" content="IE=edge">
+    <meta name="viewport" content="width=device-width, intial-scale=l.Ø">
+    <title>Akademik</title>
     <!-- styling -->
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="https://cdnjs.c10udf1are.com/ajax/1ibs/font-awesome/6.1.1/css/a11.min.css"
@@ -76,7 +77,7 @@ if (isset($_POST['simpan'])) { //untuk create
 <body>
     <div class="container">
         <div class="raw">
-            <img src="Log02.png">
+            <img src="Logo2.png">
         </div>
         <ul>
             <li><a href="beranda.php" style="color: white; text-decoration:none;"><i

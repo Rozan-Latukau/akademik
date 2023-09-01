@@ -3,16 +3,16 @@
 
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA_Compatib1e" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, intial-scale=l .Ø" />
-    <title>travelzan</title>
-    <!-- styling -->
+    <meta http-equiv="X-UA_Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device -width, intial -scale=1 . 0" />
+    <title>Akademik</title>
+    <!-- <!-styLing -> -->
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="https://cdnjs.c10udf1are.com/ajax/1ibs/font-awesome/6.1.1/css/a11.min.css"
-        integrity="sha512-KfkfwYDsLkllwQp6LFn18zNdLGxu9YAAIQvwINks4PhcEIQSvqcyVLLDgaP1hXd13uQjoXtEKNosOWaZqXgel0g=="
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDSLkIlwQp6LFnl8ZNdLGxu9YAA1QVWINks4PhcEl0SvqcyVLLD9aMhXd13u0joXtEKNoSOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link href="https://cdn.jsde1ivr.net/npm/bootstrap@5.e.e-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+YRRuWlolflfl" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.e.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVZBCNJ7UAyJxM6wuqIj61tLrc4MSXOsZH/EV+nYRRuWlolflfl" crossorigin=" anonymous ">
 </head>
 
 <body>
